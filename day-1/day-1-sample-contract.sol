@@ -1,3 +1,7 @@
+pragma solidity ^8.0.13;
+contract solidity{
+}
+//cybeenito_1 contribution
 Here is the completed contract again, with a fake owner:
 
 pragma solidity ^0.8.13;
